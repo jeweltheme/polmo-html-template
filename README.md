@@ -21,7 +21,7 @@ Polmo is a very <strong>Powerful</strong> and <strong>Easy to Use Website Tem
 The responsive portions of this website require a recent version of Firefox, Chrome, Safari, or IE.
 <br>
 
-<h2>Features Of POLMO - Bootstrap Website Template</h2> :
+<h2>Features Of POLMO - Bootstrap Website Template</h2>
 <ol>
 <li>Retina Ready</li>
 <li>Cross Browser Support</li>
